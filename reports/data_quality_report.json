@@ -1,0 +1,9 @@
+{
+  "projects: region spelling standardised": 8,
+  "projects: design completeness imputed (type median)": 12,
+  "claims: negative approved amounts set to NULL": 15,
+  "claims: approved > claimed (should be 0)": 0,
+  "monthly: duplicate project-month rows removed": 60,
+  "claims: orphan project_id": 0,
+  "projects: BoQ total != contract value (> EUR 1)": 0
+}

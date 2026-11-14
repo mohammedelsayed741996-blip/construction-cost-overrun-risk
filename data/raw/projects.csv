@@ -1,0 +1,651 @@
+project_id,project_type,region,contractor_id,procurement_route,design_completeness_pct,ground_risk,award_year,planned_duration_months,contractor_past_overrun_rate,actual_duration_months,contract_value_eur,final_cost_eur
+P0001,Residential refurbishment,East,C020,Lump sum,70.0,Low,2017,18,0.29,20,3339373.24,3430449.17
+P0002,Residential refurbishment,West,C031,Lump sum,78.0,Low,2015,12,0.11,14,20697809.35,21266988.5
+P0003,Residential new build,North,C025,Design & build,56.0,Medium,2020,13,0.27,17,71145391.75,76426527.85
+P0004,Commercial,North,C002,Lump sum,96.0,Low,2018,11,0.38,14,8544222.88,9284119.78
+P0005,Residential refurbishment,North,C025,Re-measured BoQ,99.0,Low,2019,28,0.27,32,5364821.7,5706869.96
+P0006,Residential new build,South,C019,Design & build,,Low,2017,22,0.21,23,17267613.15,17727270.95
+P0007,Residential new build,East,C032,Re-measured BoQ,84.0,Low,2018,21,0.26,23,2573692.91,2695863.5
+P0008,Infrastructure,East,C040,Lump sum,42.0,Low,2018,27,0.14,32,14057403.12,14612716.25
+P0009,Infrastructure,North,C044,Re-measured BoQ,62.0,Low,2018,32,0.26,38,7997194.43,9013386.09
+P0010,Commercial,East,C028,Lump sum,67.0,High,2022,31,0.17,37,5902118.35,7006772.24
+P0011,Residential new build,East,C017,Design & build,98.0,Medium,2020,11,0.2,12,7261870.98,7676717.75
+P0012,Infrastructure,East,C020,Lump sum,73.0,Low,2019,25,0.29,28,4805120.38,5051915.4
+P0013,Infrastructure,South,C008,Lump sum,72.0,Medium,2016,33,0.2,38,4541887.29,4820878.83
+P0014,Commercial,West,C043,Lump sum,48.0,Medium,2020,30,0.3,39,7876462.53,9359535.92
+P0015,Residential refurbishment,East,C039,Design & build,88.0,Low,2016,17,0.3,20,14370593.47,15509085.92
+P0016,Residential new build,West,C039,Lump sum,60.0,Low,2018,19,0.3,22,5498992.53,5600353.36
+P0017,Residential new build,South,C015,Design & build,45.0,Low,2019,33,0.26,35,2759508.78,2902533.89
+P0018,Infrastructure,  east ,C015,Re-measured BoQ,100.0,Low,2016,8,0.26,10,12255603.77,12986310.34
+P0019,Residential refurbishment,North,C039,Design & build,51.0,Medium,2018,23,0.3,29,9395176.07,10739110.12
+P0020,Residential new build,East,C025,Design & build,40.0,High,2017,11,0.27,15,1609439.95,1864089.04
+P0021,Residential new build,South,C032,Design & build,44.0,Low,2023,33,0.26,39,5390268.1,6039365.1
+P0022,Residential refurbishment,North,C023,Design & build,67.0,Medium,2023,9,0.13,10,2991319.05,3397561.0
+P0023,Residential new build,West,C020,Lump sum,46.0,Low,2015,8,0.29,9,6118391.81,6280589.19
+P0024,Infrastructure,East,C029,Re-measured BoQ,91.0,Medium,2021,17,0.24,21,9912138.95,11434572.44
+P0025,Infrastructure,West,C037,Re-measured BoQ,71.0,Medium,2021,13,0.23,14,8353026.36,8894251.56
+P0026,Commercial,South,C016,Re-measured BoQ,59.0,Low,2018,22,0.23,29,8419149.89,9704308.25
+P0027,Residential refurbishment,East,C037,Design & build,40.0,Low,2019,16,0.23,22,8325356.93,9498934.26
+P0028,Commercial,North,C011,Design & build,69.0,Medium,2022,18,0.15,21,7674966.55,8640690.17
+P0029,Residential refurbishment,South,C019,Re-measured BoQ,49.0,High,2018,24,0.21,31,1490829.9,1824360.13
+P0030,Commercial,East,C042,Re-measured BoQ,99.0,Low,2015,24,0.18,27,2541669.27,2465267.2
+P0031,Residential new build,North,C043,Re-measured BoQ,57.0,Low,2018,35,0.3,39,1953177.25,2068600.29
+P0032,Residential refurbishment,West,C042,Lump sum,68.0,Low,2017,21,0.18,25,10109950.6,10456175.88
+P0033,Residential new build,East,C015,Lump sum,41.0,Medium,2018,24,0.26,26,14350602.37,14669516.92
+P0034,Residential refurbishment,North,C038,Lump sum,47.0,Medium,2017,27,0.3,34,12527903.71,14085920.04
+P0035,Residential new build,East,C043,Lump sum,52.0,Medium,2016,13,0.3,15,1899562.72,2061924.4
+P0036,Residential new build,East,C045,Lump sum,43.0,Medium,2024,27,0.26,32,33118768.75,35627810.7
+P0037,Residential new build,West,C001,Re-measured BoQ,84.0,High,2016,32,0.24,39,2438317.15,2653697.2
+P0038,Residential refurbishment,South,C034,Re-measured BoQ,97.0,Medium,2022,17,0.35,20,5656663.64,6519687.09
+P0039,Residential new build,North,C045,Design & build,100.0,Low,2022,13,0.26,14,4366366.3,4591542.84
+P0040,Infrastructure,North,C035,Re-measured BoQ,56.0,Medium,2021,18,0.19,21,15124251.93,16730579.88
+P0041,Residential refurbishment,South,C011,Lump sum,88.0,Low,2024,15,0.15,17,2368058.61,2382781.59
+P0042,Residential new build,North,C035,Lump sum,70.0,Low,2015,24,0.19,30,6880816.36,7030900.09
+P0043,Residential refurbishment,East,C005,Lump sum,42.0,High,2018,33,0.41,45,8434510.33,10508784.36
+P0044,Residential new build,North,C022,Design & build,45.0,Medium,2016,25,0.29,31,4712651.26,5687647.45
+P0045,Infrastructure,North,C029,Lump sum,73.0,High,2020,11,0.24,14,5740270.26,5968151.39
+P0046,Residential refurbishment,West,C021,Re-measured BoQ,65.0,Low,2021,17,0.3,20,3272260.79,3734345.28
+P0047,Infrastructure,North,C032,Design & build,40.0,Medium,2023,27,0.26,35,1996055.77,2490283.53
+P0048,Residential new build,North,C011,Design & build,96.0,Low,2018,17,0.15,17,7696879.36,7871353.58
+P0049,Residential refurbishment,West,C028,Lump sum,84.0,Low,2017,25,0.17,31,4251211.76,4774868.38
+P0050,Residential refurbishment,North,C030,Lump sum,70.0,Low,2024,28,0.22,29,22009768.62,23136581.2
+P0051,Infrastructure,West,C029,Lump sum,100.0,Medium,2021,17,0.24,20,5162135.77,5445431.26
+P0052,Residential refurbishment,North,C014,Lump sum,99.0,Low,2022,26,0.12,28,3633023.71,3921856.66
+P0053,Residential refurbishment,North,C014,Lump sum,99.0,High,2019,19,0.12,21,13035766.05,13426949.9
+P0054,Residential new build,North,C012,Re-measured BoQ,55.0,Low,2019,11,0.17,13,2567264.19,2705703.01
+P0055,Residential new build,South,C021,Design & build,93.0,Low,2018,18,0.3,19,12988023.96,13485033.84
+P0056,Residential refurbishment,South,C027,Re-measured BoQ,70.0,Medium,2022,20,0.15,25,5900301.97,7143545.04
+P0057,Residential refurbishment,East,C017,Re-measured BoQ,84.0,Low,2017,8,0.2,10,5682645.28,5919239.02
+P0058,Residential new build,North,C019,Lump sum,92.0,High,2024,33,0.21,35,5595245.4,5668757.37
+P0059,Infrastructure,North,C013,Design & build,49.0,Medium,2016,23,0.32,26,1665316.09,1934892.25
+P0060,Infrastructure,South,C010,Re-measured BoQ,67.0,Low,2019,9,0.29,11,7208796.7,7959015.89
+P0061,Residential new build,North,C030,Design & build,47.0,Medium,2018,33,0.22,37,5454632.05,6133529.66
+P0062,Residential refurbishment,South,C037,Design & build,57.0,Medium,2021,32,0.23,42,3401800.33,4004042.9
+P0063,Residential new build,South,C014,Lump sum,65.0,Medium,2021,8,0.12,9,12740611.2,13671529.42
+P0064,Commercial,West,C039,Lump sum,92.0,Medium,2024,12,0.3,14,2270370.37,2315530.2
+P0065,Residential new build,East,C026,Lump sum,92.0,Medium,2022,18,0.21,21,20193486.7,22001943.38
+P0066,Commercial,North,C008,Re-measured BoQ,63.0,Medium,2017,22,0.2,25,7125976.13,8130699.42
+P0067,Commercial,East,C017,Design & build,60.0,Low,2017,29,0.2,37,2204300.87,2561751.21
+P0068,Infrastructure,West,C001,Lump sum,72.0,Medium,2023,20,0.24,23,867865.0,945872.46
+P0069,Residential new build,South,C002,Re-measured BoQ,95.0,High,2019,25,0.38,30,5582994.79,6191739.48
+P0070,Infrastructure,South,C016,Re-measured BoQ,99.0,Medium,2015,8,0.23,10,5708574.67,6102972.86
+P0071,Residential new build,East,C021,Lump sum,53.0,Medium,2023,27,0.3,32,3762518.29,4294576.4
+P0072,Residential new build,North,C036,Lump sum,51.0,Low,2021,34,0.18,38,4045182.28,4388910.84
+P0073,Residential refurbishment,West,C007,Re-measured BoQ,83.0,Medium,2015,23,0.27,28,4241090.77,4912711.44
+P0074,Residential refurbishment,West,C038,Re-measured BoQ,58.0,High,2022,21,0.3,28,2640716.96,3395132.73
+P0075,Infrastructure,West,C011,Re-measured BoQ,52.0,Low,2021,16,0.15,20,3671919.05,4125784.89
+P0076,Infrastructure,West,C007,Lump sum,41.0,Low,2021,35,0.27,49,5677883.53,7048969.91
+P0077,Residential new build,East,C032,Re-measured BoQ,64.0,Medium,2023,8,0.26,10,2749487.0,3191901.71
+P0078,Infrastructure,East,C035,Lump sum,63.0,Low,2019,16,0.19,16,6099701.73,6402177.42
+P0079,Residential new build,North,C028,Design & build,74.0,Medium,2019,12,0.17,14,6056548.57,6325960.13
+P0080,Residential refurbishment,West,C006,Lump sum,52.0,Low,2021,33,0.37,42,8401948.04,10160589.13
+P0081,Residential new build,South,C006,Lump sum,83.0,Low,2016,21,0.37,23,11394386.15,11830010.69
+P0082,Infrastructure,East,C018,Re-measured BoQ,81.0,Medium,2016,34,0.33,41,2530107.35,2864517.44
+P0083,Residential new build,West,C021,Re-measured BoQ,68.0,Medium,2023,27,0.3,32,15184024.81,17571359.53
+P0084,Residential new build,South,C045,Re-measured BoQ,51.0,Medium,2017,24,0.26,27,6657998.71,6990374.38
+P0085,Residential refurbishment,West,C013,Re-measured BoQ,70.0,Medium,2020,23,0.32,29,3585229.14,4400532.33
+P0086,Infrastructure,West,C009,Design & build,81.0,Medium,2017,13,0.24,14,13255772.5,13943290.55
+P0087,Infrastructure,North,C043,Re-measured BoQ,62.0,Medium,2017,24,0.3,27,5750909.88,6720585.45
+P0088,Commercial,East,C007,Re-measured BoQ,56.0,Medium,2020,27,0.27,37,4570211.62,5072732.76
+P0089,Infrastructure,South,C002,Re-measured BoQ,70.0,Medium,2023,35,0.38,43,8373845.83,10448182.04
+P0090,Infrastructure,West,C020,Lump sum,61.0,Medium,2019,23,0.29,28,6958338.27,7651172.61
+P0091,Residential refurbishment,North,C019,Re-measured BoQ,64.0,Low,2016,35,0.21,38,2448756.62,2801103.67
+P0092,Residential new build,East,C028,Lump sum,61.0,Low,2017,35,0.17,37,1436921.31,1456370.3
+P0093,Infrastructure,South,C040,Re-measured BoQ,58.0,Medium,2016,23,0.14,25,7503955.38,7995381.47
+P0094,Commercial,West,C042,Lump sum,83.0,High,2023,20,0.18,24,7656167.56,8285941.08
+P0095,Residential refurbishment,North,C014,Design & build,68.0,Medium,2018,12,0.12,15,2566031.58,2640666.86
+P0096,Residential new build,South,C045,Re-measured BoQ,68.0,Low,2018,15,0.26,18,6858594.33,7340441.41
+P0097,Commercial,East,C029,Design & build,79.0,Medium,2015,33,0.24,38,2138626.89,2317693.15
+P0098,Residential new build,North,C004,Re-measured BoQ,62.0,Low,2019,12,0.21,12,5214222.82,5476033.39
+P0099,Infrastructure,South,C043,Lump sum,46.0,Medium,2024,19,0.3,25,10232318.86,10719512.55
+P0100,Residential new build,East,C007,Design & build,92.0,Medium,2019,28,0.27,29,1365308.34,1420726.08
+P0101,Residential new build,South,C027,Re-measured BoQ,43.0,Medium,2021,14,0.15,19,1057430.44,1234698.02
+P0102,Infrastructure,East,C036,Re-measured BoQ,74.0,Medium,2016,36,0.18,43,2359447.15,2621830.28
+P0103,Residential new build,West,C012,Re-measured BoQ,56.0,Low,2016,26,0.17,30,22889461.75,23374817.04
+P0104,Residential new build,North,C013,Re-measured BoQ,53.0,Low,2022,8,0.32,10,5090216.12,5944284.18
+P0105,Residential refurbishment,West,C022,Design & build,42.0,High,2015,15,0.29,19,4049880.23,4448414.94
+P0106,Infrastructure,North,C040,Re-measured BoQ,,Medium,2019,29,0.14,32,6915707.87,7472955.24
+P0107,Residential new build,South,C011,Lump sum,66.0,Medium,2018,33,0.15,39,16216153.51,17699037.55
+P0108,Residential new build,  east ,C030,Re-measured BoQ,60.0,Low,2015,34,0.22,39,6873025.15,7606071.46
+P0109,Infrastructure,East,C021,Re-measured BoQ,85.0,Low,2020,32,0.3,33,36295824.91,42669317.48
+P0110,Infrastructure,North,C006,Design & build,42.0,Low,2024,10,0.37,13,7622179.83,8895022.39
+P0111,Residential refurbishment,South,C032,Lump sum,74.0,Low,2015,29,0.26,32,2015184.2,2065680.23
+P0112,Residential new build,North,C038,Re-measured BoQ,70.0,Low,2023,11,0.3,13,2957443.68,3269622.91
+P0113,Residential new build,South,C026,Design & build,73.0,High,2020,10,0.21,12,17078892.7,19243225.64
+P0114,Residential new build,South,C008,Re-measured BoQ,47.0,Medium,2022,28,0.2,34,1583110.95,1893008.32
+P0115,Residential new build,West,C008,Re-measured BoQ,98.0,Low,2015,21,0.2,21,12911900.42,13600732.12
+P0116,Commercial,South,C020,Re-measured BoQ,54.0,Low,2023,26,0.29,28,9373229.21,10628787.33
+P0117,Residential new build,East,C023,Lump sum,81.0,Low,2015,32,0.13,33,1573127.95,1562361.34
+P0118,Residential refurbishment,South,C025,Re-measured BoQ,85.0,Medium,2024,9,0.27,11,8319053.77,9033637.65
+P0119,Commercial,West,C011,Lump sum,60.0,Low,2021,23,0.15,26,7254428.83,7763739.26
+P0120,Residential refurbishment,East,C023,Lump sum,47.0,Medium,2018,32,0.13,35,16480791.88,17414760.98
+P0121,Residential new build,North,C014,Re-measured BoQ,58.0,Medium,2015,20,0.12,23,33518977.66,35381088.58
+P0122,Infrastructure,West,C031,Re-measured BoQ,89.0,Low,2021,23,0.11,23,1060228.28,1124492.15
+P0123,Commercial,North,C036,Design & build,95.0,Medium,2015,22,0.18,23,11069366.75,11126138.49
+P0124,Commercial,South,C030,Lump sum,97.0,High,2021,34,0.22,37,4365467.73,4898048.05
+P0125,Residential new build,North,C001,Lump sum,53.0,Low,2022,9,0.24,11,2068003.46,2209622.44
+P0126,Residential new build,North,C045,Design & build,76.0,Low,2017,33,0.26,36,6732634.94,7492831.68
+P0127,Infrastructure,West,C002,Lump sum,49.0,High,2017,31,0.38,38,5684566.82,6451399.93
+P0128,Residential refurbishment,North,C045,Lump sum,83.0,High,2017,31,0.26,40,9048190.81,9696727.11
+P0129,Residential new build,South,C002,Lump sum,65.0,Medium,2017,19,0.38,23,2260741.03,2364612.71
+P0130,Residential refurbishment,South,C024,Re-measured BoQ,83.0,Medium,2016,22,0.31,27,3854981.17,4168322.82
+P0131,Commercial,North,C005,Design & build,81.0,Low,2017,18,0.41,21,3274723.83,3484631.17
+P0132,Infrastructure,North,C005,Re-measured BoQ,100.0,Medium,2021,15,0.41,18,2280591.2,2651020.77
+P0133,Residential new build,West,C031,Re-measured BoQ,69.0,Low,2018,33,0.11,33,9678455.49,9701576.55
+P0134,Infrastructure,South,C033,Lump sum,60.0,Low,2022,22,0.3,27,6458016.43,6942108.36
+P0135,Residential new build,North,C006,Lump sum,72.0,Medium,2023,28,0.37,35,1811486.67,2140164.42
+P0136,Residential refurbishment,West,C044,Re-measured BoQ,49.0,High,2022,10,0.26,13,17045794.77,20603289.95
+P0137,Commercial,East,C015,Lump sum,46.0,Medium,2020,30,0.26,35,1388522.72,1488935.33
+P0138,Residential new build,North,C015,Lump sum,71.0,Low,2018,27,0.26,31,2842894.36,2943010.31
+P0139,Residential new build,West,C014,Lump sum,90.0,Low,2024,36,0.12,36,8254014.97,8350070.89
+P0140,Residential refurbishment,North,C021,Lump sum,72.0,High,2017,11,0.3,14,4660823.4,5007993.15
+P0141,Infrastructure,South,C009,Re-measured BoQ,87.0,High,2019,23,0.24,27,3631959.69,4195173.59
+P0142,Residential refurbishment,West,C020,Re-measured BoQ,50.0,Medium,2019,22,0.29,31,3113951.77,3892580.76
+P0143,Infrastructure,South,C010,Lump sum,67.0,Medium,2022,23,0.29,29,7230502.97,8684526.5
+P0144,Infrastructure,South,C003,Re-measured BoQ,77.0,Low,2020,9,0.2,10,5238657.83,5676930.89
+P0145,Residential refurbishment,East,C017,Re-measured BoQ,61.0,Low,2022,21,0.2,24,3541178.81,4262299.45
+P0146,Infrastructure,North,C031,Re-measured BoQ,40.0,Low,2024,16,0.11,19,2423101.3,2749225.89
+P0147,Residential new build,South,C035,Design & build,44.0,Low,2018,25,0.19,28,7083301.91,7729738.99
+P0148,Residential new build,West,C016,Re-measured BoQ,96.0,Low,2023,14,0.23,15,9935182.25,10968294.83
+P0149,Infrastructure,North,C015,Design & build,76.0,Medium,2016,20,0.26,25,22909431.86,23993599.66
+P0150,Infrastructure,West,C036,Lump sum,56.0,Low,2024,25,0.18,29,37308648.06,39088795.9
+P0151,Residential new build,East,C031,Lump sum,55.0,Low,2016,9,0.11,11,11028919.79,11655183.03
+P0152,Residential refurbishment,South,C038,Lump sum,42.0,Medium,2023,30,0.3,37,6313559.11,7609024.82
+P0153,Commercial,North,C041,Re-measured BoQ,97.0,Low,2018,28,0.21,31,5949373.14,5958483.22
+P0154,Infrastructure,South,C037,Lump sum,46.0,Low,2024,9,0.23,11,5703799.78,6140974.39
+P0155,Commercial,North,C043,Lump sum,86.0,Medium,2016,9,0.3,10,5619449.47,5753818.85
+P0156,Residential refurbishment,East,C019,Re-measured BoQ,54.0,Low,2019,32,0.21,41,26089906.95,30087922.06
+P0157,Residential refurbishment,South,C018,Lump sum,60.0,Medium,2024,16,0.33,18,7332282.92,8026993.42
+P0158,Residential refurbishment,North,C015,Lump sum,56.0,High,2015,32,0.26,42,3222616.58,3475556.56
+P0159,Commercial,East,C011,Lump sum,90.0,Low,2017,22,0.15,23,9979835.74,9876368.45
+P0160,Infrastructure,South,C034,Re-measured BoQ,42.0,High,2015,17,0.35,23,7886632.77,9580864.1
+P0161,Residential refurbishment,North,C033,Lump sum,61.0,High,2018,15,0.3,17,38248920.56,40937523.25
+P0162,Residential new build,East,C037,Lump sum,57.0,Medium,2018,27,0.23,30,6151560.89,6513701.16
+P0163,Residential new build,East,C008,Lump sum,56.0,Medium,2021,11,0.2,14,9376744.35,10373845.77
+P0164,Commercial,South,C023,Re-measured BoQ,51.0,Medium,2017,19,0.13,22,3448421.77,3749627.84
+P0165,Infrastructure,West,C010,Design & build,95.0,Medium,2016,18,0.29,20,17971339.61,18622446.17
+P0166,Residential new build,West,C041,Re-measured BoQ,63.0,Medium,2016,12,0.21,14,4044994.21,4283592.65
+P0167,Residential new build,North,C013,Re-measured BoQ,65.0,Low,2024,18,0.32,19,4433223.44,4622551.34
+P0168,Residential refurbishment,North,C007,Design & build,63.0,High,2024,23,0.27,28,7593398.54,8729371.72
+P0169,Residential new build,North,C026,Design & build,99.0,Medium,2017,27,0.21,29,25390706.79,26584410.73
+P0170,Infrastructure,South,C040,Re-measured BoQ,60.0,Medium,2016,10,0.14,12,1642222.15,1733068.15
+P0171,Residential new build,North,C042,Design & build,60.0,Low,2015,33,0.18,35,4504021.22,4760486.35
+P0172,Residential new build,North,C005,Design & build,60.0,Low,2024,33,0.41,43,6685428.46,7785447.04
+P0173,Infrastructure,West,C015,Re-measured BoQ,59.0,Medium,2022,28,0.26,34,5311268.58,6575678.1
+P0174,Residential new build,West,C007,Re-measured BoQ,45.0,Medium,2022,34,0.27,44,3871629.15,4801181.32
+P0175,Residential new build,West,C014,Lump sum,76.0,Low,2017,20,0.12,21,5750290.42,5756031.74
+P0176,Residential new build,East,C025,Lump sum,41.0,Low,2021,31,0.27,36,5722216.02,6540046.86
+P0177,Residential new build,South,C013,Re-measured BoQ,53.0,Low,2015,29,0.32,34,2784369.16,3076973.26
+P0178,Residential new build,South,C004,Re-measured BoQ,52.0,Medium,2021,24,0.21,25,9161737.37,10157005.38
+P0179,Residential new build,North,C023,Re-measured BoQ,57.0,Low,2020,13,0.13,16,2137052.4,2195825.15
+P0180,Residential new build,South,C003,Re-measured BoQ,86.0,High,2018,24,0.2,28,7029518.71,7487600.0
+P0181,Residential new build,South,C011,Re-measured BoQ,76.0,Low,2022,34,0.15,40,3310116.96,3877080.89
+P0182,Residential refurbishment,East,C001,Design & build,,Low,2021,36,0.24,40,9651202.85,10944113.15
+P0183,Commercial,West,C004,Lump sum,61.0,Low,2019,20,0.21,22,4161627.31,4342401.03
+P0184,Residential refurbishment,South,C020,Lump sum,96.0,Medium,2016,15,0.29,17,7071290.44,7335673.76
+P0185,Residential new build,South,C039,Re-measured BoQ,42.0,Low,2015,29,0.3,38,2825632.68,3279752.78
+P0186,Residential refurbishment,South,C035,Design & build,70.0,Medium,2024,10,0.19,12,5673383.94,6162192.23
+P0187,Infrastructure,West,C005,Design & build,88.0,High,2017,12,0.41,16,7351196.4,8492275.49
+P0188,Infrastructure,South,C002,Design & build,72.0,Low,2018,24,0.38,31,27437703.39,32209931.73
+P0189,Residential new build,East,C016,Design & build,96.0,Medium,2021,36,0.23,43,8269740.7,9208376.36
+P0190,Residential new build,West,C030,Lump sum,59.0,Low,2017,17,0.22,19,3006524.11,3051486.56
+P0191,Residential new build,South,C034,Re-measured BoQ,42.0,Low,2018,20,0.35,23,12262132.72,13261124.51
+P0192,Residential new build,West,C038,Lump sum,87.0,Low,2022,17,0.3,19,2076964.79,2284651.33
+P0193,Residential refurbishment,North,C016,Re-measured BoQ,44.0,Low,2020,20,0.23,25,3026366.86,3715332.62
+P0194,Residential refurbishment,East,C008,Design & build,86.0,Medium,2021,8,0.2,10,1030728.58,1158820.4
+P0195,Residential new build,West,C002,Lump sum,84.0,Medium,2015,25,0.38,28,10634091.75,10913200.76
+P0196,Residential refurbishment,South,C007,Re-measured BoQ,91.0,Medium,2019,25,0.27,27,1230313.37,1428776.29
+P0197,Residential refurbishment,West,C003,Lump sum,69.0,Medium,2019,17,0.2,20,15171346.93,16031295.23
+P0198,Residential new build,North,C039,Lump sum,94.0,Medium,2021,15,0.3,15,11491765.7,12225880.59
+P0199,Infrastructure,North,C013,Lump sum,50.0,Low,2016,30,0.32,35,12693956.08,14315080.56
+P0200,Residential new build,West,C038,Lump sum,66.0,Low,2016,13,0.3,13,926794.04,958174.55
+P0201,Infrastructure,East,C025,Design & build,47.0,Low,2022,9,0.27,11,13338250.54,15138594.28
+P0202,Residential new build,South,C025,Re-measured BoQ,86.0,Medium,2021,9,0.27,11,3531652.55,3891821.37
+P0203,Infrastructure,East,C021,Design & build,83.0,High,2023,33,0.3,46,2581576.57,3336294.0
+P0204,Infrastructure,East,C037,Re-measured BoQ,89.0,Low,2017,18,0.23,21,3963784.88,4072501.13
+P0205,Infrastructure,West,C002,Lump sum,86.0,Medium,2024,10,0.38,12,16708711.31,17434310.36
+P0206,Infrastructure,North,C005,Lump sum,58.0,Medium,2017,33,0.41,43,4653080.77,5031821.76
+P0207,Infrastructure,West,C020,Design & build,44.0,Medium,2021,12,0.29,15,2899210.18,3384466.11
+P0208,Commercial,West,C018,Lump sum,96.0,Medium,2016,17,0.33,18,2325820.68,2379557.44
+P0209,Infrastructure,South,C025,Design & build,70.0,Medium,2024,8,0.27,10,9758063.82,10238206.82
+P0210,Residential new build,East,C034,Lump sum,45.0,Medium,2018,27,0.35,30,10881114.3,12015637.53
+P0211,Residential refurbishment,North,C027,Re-measured BoQ,96.0,High,2023,28,0.15,33,7041540.31,8182734.27
+P0212,Residential refurbishment,South,C012,Design & build,100.0,Low,2018,29,0.17,31,4512546.0,4968248.57
+P0213,Infrastructure,East,C015,Lump sum,67.0,High,2022,15,0.26,18,470959.44,502858.89
+P0214,Residential refurbishment,North,C034,Lump sum,86.0,Low,2019,17,0.35,19,9691930.12,10022962.38
+P0215,Residential refurbishment,East,C010,Design & build,42.0,Medium,2015,35,0.29,44,4159554.92,5005140.0
+P0216,Commercial,West,C023,Lump sum,45.0,Low,2016,31,0.13,34,3434355.22,3497680.9
+P0217,Residential new build,East,C025,Re-measured BoQ,56.0,Low,2021,9,0.27,12,5078447.51,5895821.11
+P0218,Residential new build,North,C034,Re-measured BoQ,80.0,Low,2016,28,0.35,32,6733695.46,7210733.65
+P0219,Residential refurbishment,South,C033,Lump sum,48.0,Low,2017,31,0.3,36,3514128.99,3806400.51
+P0220,Residential refurbishment,North,C021,Re-measured BoQ,42.0,Low,2020,24,0.3,29,6881681.08,7776014.02
+P0221,Residential new build,West,C014,Re-measured BoQ,80.0,Low,2017,26,0.12,26,4995663.47,5089480.77
+P0222,Residential refurbishment,West,C017,Lump sum,86.0,Low,2016,8,0.2,10,5022975.28,5153191.66
+P0223,Residential refurbishment,West,C019,Design & build,85.0,Low,2021,8,0.21,10,3078425.03,3451165.38
+P0224,Residential new build,West,C010,Lump sum,88.0,Medium,2021,9,0.29,11,8716026.05,9131744.94
+P0225,Residential refurbishment,North,C029,Lump sum,88.0,High,2022,12,0.24,14,2231865.06,2438375.86
+P0226,Commercial,North,C010,Re-measured BoQ,76.0,Medium,2024,36,0.29,42,13773907.77,15679743.49
+P0227,Residential new build,East,C030,Design & build,71.0,Low,2016,26,0.22,28,1115558.06,1155649.34
+P0228,Infrastructure,East,C034,Lump sum,92.0,Low,2019,30,0.35,34,10755058.78,11499098.21
+P0229,Infrastructure,West,C044,Lump sum,61.0,High,2017,16,0.26,20,5185944.34,5615547.63
+P0230,Residential refurbishment,South,C006,Re-measured BoQ,45.0,Low,2024,35,0.37,44,7089484.79,8390742.22
+P0231,Residential new build,South,C035,Design & build,85.0,Low,2020,13,0.19,15,13224118.72,13340724.43
+P0232,Residential refurbishment,West,C004,Lump sum,56.0,High,2015,34,0.21,40,10757295.58,12032712.58
+P0233,Infrastructure,South,C016,Lump sum,99.0,High,2021,8,0.23,11,6887195.39,7658689.7
+P0234,Commercial,East,C008,Re-measured BoQ,65.0,Low,2015,8,0.2,10,5182142.55,5466466.23
+P0235,Infrastructure,East,C008,Lump sum,91.0,Medium,2017,10,0.2,12,14433765.01,14752486.45
+P0236,Residential refurbishment,South,C008,Lump sum,42.0,Low,2022,30,0.2,37,5946773.57,7206265.71
+P0237,Commercial,North,C002,Lump sum,80.0,Medium,2020,15,0.38,21,1317732.86,1456840.23
+P0238,Residential new build,South,C038,Re-measured BoQ,67.0,Low,2022,21,0.3,24,11310074.09,12263164.72
+P0239,Commercial,South,C003,Re-measured BoQ,68.0,Low,2020,21,0.2,25,4252704.78,4863141.56
+P0240,Residential new build,South,C018,Design & build,56.0,Medium,2023,30,0.33,36,5998171.07,7026273.39
+P0241,Commercial,South,C032,Re-measured BoQ,99.0,Low,2020,18,0.26,22,10939240.06,11353622.86
+P0242,Infrastructure,West,C045,Re-measured BoQ,63.0,Medium,2015,8,0.26,10,8580608.96,9501387.67
+P0243,Residential new build,West,C039,Design & build,91.0,Low,2015,19,0.3,20,1587590.28,1633167.99
+P0244,Commercial,South,C007,Re-measured BoQ,65.0,High,2022,16,0.27,20,6602892.48,7449711.97
+P0245,Residential new build,East,C045,Re-measured BoQ,42.0,Medium,2015,29,0.26,36,4199647.74,4805906.7
+P0246,Commercial,North,C030,Design & build,93.0,Low,2018,29,0.22,31,14371808.4,14857757.34
+P0247,Residential new build,West,C009,Lump sum,51.0,Medium,2015,10,0.24,12,15713468.99,16678034.7
+P0248,Infrastructure,West,C021,Re-measured BoQ,56.0,Low,2018,30,0.3,36,20399050.51,22830211.2
+P0249,Residential new build,South,C042,Re-measured BoQ,92.0,Low,2020,10,0.18,11,92115958.78,91651782.9
+P0250,Infrastructure,West,C018,Lump sum,94.0,Low,2016,25,0.33,30,34990821.2,37090570.75
+P0251,Infrastructure,West,C009,Re-measured BoQ,95.0,High,2019,19,0.24,23,5474809.46,5953357.18
+P0252,Residential refurbishment,West,C040,Lump sum,65.0,Medium,2024,16,0.14,19,2932823.0,3037838.58
+P0253,Infrastructure,South,C043,Lump sum,86.0,High,2015,22,0.3,27,7642949.64,8644838.06
+P0254,Infrastructure,North,C044,Re-measured BoQ,59.0,High,2015,17,0.26,21,7540882.05,8774636.15
+P0255,Infrastructure,North,C044,Lump sum,85.0,High,2017,31,0.26,40,5580554.31,5997536.98
+P0256,Residential new build,North,C040,Re-measured BoQ,70.0,Low,2023,36,0.14,38,18537579.56,20295639.23
+P0257,Residential refurbishment,East,C021,Design & build,43.0,High,2019,31,0.3,40,7923249.22,9333898.82
+P0258,Residential new build,South,C009,Design & build,65.0,Medium,2021,20,0.24,23,4645995.97,5399124.07
+P0259,Commercial,East,C028,Lump sum,68.0,Low,2015,22,0.17,26,2533244.67,2600224.22
+P0260,Residential new build,North,C010,Lump sum,55.0,Medium,2022,20,0.29,23,5150671.28,5696369.8
+P0261,Residential refurbishment,North,C022,Lump sum,,Low,2015,31,0.29,36,10344949.77,11144033.6
+P0262,Residential refurbishment,West,C030,Lump sum,70.0,Low,2022,24,0.22,28,5391921.2,6320288.58
+P0263,Residential refurbishment,West,C043,Design & build,43.0,Low,2016,21,0.3,27,6072137.31,7524717.14
+P0264,Residential refurbishment,East,C014,Re-measured BoQ,49.0,Low,2023,19,0.12,20,4935467.69,5429433.31
+P0265,Infrastructure,West,C012,Lump sum,86.0,Low,2017,18,0.17,19,3005878.49,3086690.63
+P0266,Infrastructure,South,C034,Design & build,61.0,High,2016,24,0.35,29,6196042.87,7946610.36
+P0267,Residential refurbishment,West,C001,Lump sum,77.0,Medium,2018,27,0.24,32,6012863.26,6442467.0
+P0268,Residential refurbishment,West,C026,Lump sum,74.0,Medium,2015,20,0.21,23,7691560.02,8010859.08
+P0269,Infrastructure,South,C034,Lump sum,73.0,Low,2016,31,0.35,34,1651132.07,1769093.3
+P0270,Residential new build,East,C025,Re-measured BoQ,65.0,Low,2020,31,0.27,37,10430686.3,11093808.17
+P0271,Residential new build,South,C018,Re-measured BoQ,69.0,Low,2018,20,0.33,21,5247458.18,5584959.64
+P0272,Residential new build,East,C038,Lump sum,90.0,Medium,2018,34,0.3,39,6998419.1,7185240.86
+P0273,Commercial,East,C017,Design & build,98.0,Low,2023,13,0.2,14,1735450.73,1819772.12
+P0274,Residential refurbishment,South,C032,Design & build,55.0,Medium,2016,35,0.26,44,3366592.57,3679126.98
+P0275,Infrastructure,South,C021,Design & build,80.0,Medium,2018,16,0.3,19,863492.35,897366.27
+P0276,Commercial,South,C002,Lump sum,99.0,Medium,2016,24,0.38,26,2015250.2,2103434.68
+P0277,Residential new build,East,C024,Lump sum,40.0,High,2019,16,0.31,19,12651057.13,13771731.82
+P0278,Infrastructure,East,C003,Design & build,87.0,Low,2018,20,0.2,23,2506756.39,2587936.16
+P0279,Infrastructure,North,C042,Lump sum,70.0,High,2015,17,0.18,19,10781078.73,11033312.53
+P0280,Residential new build,South,C028,Re-measured BoQ,99.0,Medium,2015,28,0.17,31,3965613.27,4235074.28
+P0281,Residential refurbishment,South,C017,Re-measured BoQ,75.0,Medium,2023,10,0.2,13,3629930.9,4032106.23
+P0282,Residential new build,West,C022,Lump sum,91.0,Medium,2015,32,0.29,36,1823349.56,1900590.92
+P0283,Residential new build,South,C028,Re-measured BoQ,50.0,Medium,2022,34,0.17,39,3900687.54,4505984.63
+P0284,Residential new build,East,C012,Design & build,48.0,High,2024,24,0.17,29,8193522.68,9261122.71
+P0285,Infrastructure,North,C013,Re-measured BoQ,96.0,Low,2019,23,0.32,27,4340306.97,4551397.76
+P0286,Residential refurbishment,North,C019,Re-measured BoQ,72.0,Medium,2018,28,0.21,34,7711553.84,9217452.28
+P0287,Residential refurbishment,East,C012,Design & build,74.0,Medium,2022,13,0.17,16,15513816.78,17823137.74
+P0288,Commercial,East,C035,Re-measured BoQ,50.0,Low,2024,29,0.19,31,1658016.17,1847742.29
+P0289,Residential refurbishment,East,C005,Re-measured BoQ,53.0,High,2016,14,0.41,18,11208787.01,13282156.5
+P0290,Infrastructure,East,C038,Design & build,89.0,Low,2024,27,0.3,31,3186489.89,3282583.65
+P0291,Infrastructure,West,C016,Re-measured BoQ,58.0,Medium,2024,16,0.23,20,5473015.69,6388577.92
+P0292,Residential refurbishment,North,C026,Lump sum,75.0,Low,2016,29,0.21,33,18614729.52,19681081.23
+P0293,Residential refurbishment,East,C008,Lump sum,59.0,Low,2015,30,0.2,36,789728.87,821532.53
+P0294,Infrastructure,North,C018,Lump sum,56.0,Medium,2022,14,0.33,17,46058747.32,51988744.36
+P0295,Commercial,East,C034,Re-measured BoQ,50.0,Low,2015,25,0.35,29,4395350.39,5039649.07
+P0296,Infrastructure,South,C013,Re-measured BoQ,96.0,Low,2021,22,0.32,26,6130280.78,6785179.52
+P0297,Residential new build,North,C006,Re-measured BoQ,97.0,Low,2015,16,0.37,17,11808872.53,12134262.47
+P0298,Infrastructure,East,C024,Lump sum,47.0,Low,2021,25,0.31,33,21345946.99,24785515.32
+P0299,Commercial,North,C008,Re-measured BoQ,61.0,Medium,2017,36,0.2,44,6735131.86,7575057.14
+P0300,Residential new build,West,C015,Design & build,74.0,High,2015,8,0.26,10,9037673.82,9585558.58
+P0301,Residential refurbishment,South,C021,Lump sum,63.0,Low,2015,35,0.3,45,3560512.67,3778032.54
+P0302,Commercial,North,C026,Re-measured BoQ,83.0,Medium,2016,32,0.21,35,2785870.9,3253184.85
+P0303,Residential new build,North,C029,Re-measured BoQ,55.0,Low,2020,23,0.24,26,2487073.21,2634291.93
+P0304,Residential refurbishment,North,C031,Re-measured BoQ,43.0,Medium,2015,25,0.11,30,3682052.59,4186951.16
+P0305,Infrastructure,East,C038,Lump sum,60.0,Low,2023,18,0.3,20,15231247.9,17698502.57
+P0306,Residential new build,West,C003,Re-measured BoQ,76.0,Low,2021,11,0.2,13,25531703.98,28447157.74
+P0307,Residential refurbishment,South,C017,Design & build,51.0,Low,2017,24,0.2,27,11031527.52,12368374.77
+P0308,Residential refurbishment,West,C001,Re-measured BoQ,89.0,Medium,2024,31,0.24,37,12445171.73,13604670.95
+P0309,Residential new build,East,C001,Design & build,40.0,Medium,2021,14,0.24,18,2269817.69,2636660.61
+P0310,Infrastructure,East,C010,Design & build,44.0,Low,2021,28,0.29,34,2281714.52,2609607.14
+P0311,Infrastructure,East,C027,Lump sum,71.0,Medium,2016,29,0.15,29,7212452.39,7356400.18
+P0312,Residential new build,North,C041,Re-measured BoQ,71.0,Medium,2022,29,0.21,31,39695573.44,43026432.88
+P0313,Infrastructure,West,C035,Re-measured BoQ,57.0,Low,2020,17,0.19,21,17666795.3,19399042.41
+P0314,Infrastructure,North,C030,Design & build,55.0,Medium,2024,19,0.22,22,7372518.34,8039432.63
+P0315,Residential new build,East,C036,Lump sum,44.0,High,2019,20,0.18,20,10914698.08,11896657.54
+P0316,Infrastructure,South,C008,Re-measured BoQ,80.0,Low,2021,32,0.2,42,28092692.13,34283855.93
+P0317,Residential new build,North,C038,Design & build,63.0,Medium,2018,34,0.3,40,5358372.78,5944723.09
+P0318,Infrastructure,East,C041,Lump sum,47.0,Low,2015,20,0.21,23,13444148.13,13861840.54
+P0319,Commercial,East,C005,Re-measured BoQ,64.0,Medium,2016,36,0.41,48,4877564.58,6196787.87
+P0320,Commercial,East,C022,Lump sum,97.0,Low,2023,24,0.29,27,5968819.31,6508397.79
+P0321,Residential new build,North,C038,Design & build,55.0,Medium,2022,19,0.3,22,12974026.94,14621241.1
+P0322,Infrastructure,North,C022,Design & build,94.0,Low,2018,8,0.29,10,2573550.01,2722735.38
+P0323,Residential new build,North,C038,Lump sum,55.0,Medium,2021,25,0.3,32,3358603.65,3668900.68
+P0324,Residential new build,East,C043,Re-measured BoQ,51.0,High,2015,26,0.3,37,9639494.73,11727845.66
+P0325,Residential new build,North,C022,Lump sum,55.0,Low,2015,36,0.29,40,68901539.74,71105806.94
+P0326,Infrastructure,West,C003,Re-measured BoQ,59.0,High,2020,28,0.2,34,2558898.06,2869205.85
+P0327,Residential new build,North,C016,Re-measured BoQ,47.0,High,2021,8,0.23,11,6829822.15,7851364.39
+P0328,Infrastructure,South,C010,Design & build,75.0,High,2024,24,0.29,27,2563569.6,2842860.33
+P0329,Commercial,South,C022,Lump sum,60.0,Low,2022,29,0.29,37,3551306.26,4072724.29
+P0330,Residential new build,East,C027,Lump sum,83.0,Medium,2017,22,0.15,25,5842622.35,6166267.83
+P0331,Residential new build,West,C021,Re-measured BoQ,69.0,Low,2023,20,0.3,24,2440304.4,2627269.54
+P0332,Residential new build,North,C009,Re-measured BoQ,67.0,Low,2019,31,0.24,34,10175425.17,10663196.35
+P0333,Commercial,North,C014,Re-measured BoQ,68.0,High,2023,25,0.12,29,13771152.19,15455086.96
+P0334,Infrastructure,East,C031,Lump sum,49.0,Medium,2016,27,0.11,31,10568338.93,11104461.82
+P0335,Residential new build,North,C002,Lump sum,83.0,Medium,2015,21,0.38,21,3333891.09,3391062.29
+P0336,Infrastructure,East,C010,Design & build,46.0,Low,2015,16,0.29,20,1381077.2,1532466.04
+P0337,Residential new build,East,C041,Lump sum,84.0,Medium,2024,23,0.21,26,48848859.15,50373032.45
+P0338,Infrastructure,West,C005,Lump sum,100.0,Medium,2015,35,0.41,42,5298530.82,5990590.37
+P0339,Infrastructure,East,C019,Design & build,86.0,Low,2024,25,0.21,28,8305685.06,8511521.6
+P0340,Infrastructure,West,C010,Lump sum,67.0,High,2022,28,0.29,38,4265574.98,4919832.08
+P0341,Commercial,West,C005,Re-measured BoQ,59.0,Low,2016,11,0.41,14,2695279.59,2967658.95
+P0342,Infrastructure,West,C020,Lump sum,93.0,Low,2023,36,0.29,42,7561844.82,8132615.79
+P0343,Residential new build,North,C024,Design & build,55.0,Medium,2016,15,0.31,19,10591827.49,11478281.41
+P0344,Residential new build,West,C008,Re-measured BoQ,69.0,High,2016,36,0.2,45,13983294.68,16286026.41
+P0345,Residential new build,South,C004,Design & build,87.0,Low,2020,20,0.21,21,6080240.5,6182662.77
+P0346,Residential refurbishment,West,C007,Lump sum,96.0,Low,2017,34,0.27,34,13213167.45,13437858.36
+P0347,Commercial,East,C030,Re-measured BoQ,96.0,Low,2017,33,0.22,33,6884964.39,6859744.31
+P0348,Commercial,West,C039,Re-measured BoQ,45.0,High,2016,29,0.3,38,7334420.33,8892890.39
+P0349,Infrastructure,South,C009,Lump sum,94.0,Low,2021,34,0.24,36,1066560.14,1131650.91
+P0350,Residential new build,North,C015,Lump sum,46.0,Medium,2015,25,0.26,31,9497684.85,10293975.0
+P0351,Commercial,East,C016,Lump sum,75.0,High,2017,32,0.23,39,8869516.9,9930192.05
+P0352,Residential new build,North,C017,Design & build,96.0,Low,2020,12,0.2,14,14830636.32,15250571.38
+P0353,Residential new build,West,C011,Re-measured BoQ,79.0,Medium,2019,10,0.15,11,19443622.76,20626290.89
+P0354,Commercial,East,C003,Re-measured BoQ,97.0,Medium,2021,23,0.2,27,3073440.15,3385761.06
+P0355,Infrastructure,North,C024,Re-measured BoQ,61.0,Medium,2017,31,0.31,40,3827480.41,4705574.82
+P0356,Commercial,South,C017,Re-measured BoQ,59.0,Low,2021,30,0.2,39,5597734.98,6722435.93
+P0357,Residential new build,East,C016,Re-measured BoQ,59.0,Low,2022,23,0.23,26,10724498.33,12929702.76
+P0358,Commercial,North,C012,Re-measured BoQ,61.0,Low,2018,23,0.17,27,2484756.97,2721853.31
+P0359,Residential new build,West,C042,Re-measured BoQ,81.0,Medium,2017,25,0.18,29,5546169.63,5704540.03
+P0360,Infrastructure,West,C028,Lump sum,67.0,Medium,2020,33,0.17,41,6749953.26,7165318.0
+P0361,Commercial,South,C019,Design & build,84.0,Low,2020,32,0.21,34,4875487.45,4898904.95
+P0362,Residential new build,South,C010,Design & build,65.0,Low,2015,11,0.29,13,5312160.62,5547515.02
+P0363,Residential new build,East,C037,Lump sum,58.0,High,2020,25,0.23,32,5193945.85,5661563.76
+P0364,Residential new build,South,C040,Re-measured BoQ,51.0,Low,2016,19,0.14,23,1777931.06,1916212.71
+P0365,Infrastructure,South,C002,Lump sum,73.0,Low,2020,31,0.38,37,7622378.8,8303004.14
+P0366,Residential refurbishment,North,C042,Design & build,94.0,Medium,2024,22,0.18,24,5422238.82,5542514.01
+P0367,Infrastructure,North,C032,Design & build,92.0,Low,2020,36,0.26,43,6679136.24,7397411.58
+P0368,Commercial,East,C005,Design & build,55.0,Low,2022,20,0.41,28,4520659.88,5476502.92
+P0369,Residential refurbishment,East,C034,Lump sum,69.0,Low,2018,27,0.35,33,4017815.12,4319485.47
+P0370,Residential new build,North,C005,Lump sum,83.0,Low,2024,11,0.41,14,15667604.49,16759929.03
+P0371,Infrastructure,North,C003,Lump sum,77.0,Medium,2023,35,0.2,40,5242992.05,5631377.22
+P0372,Residential new build,West,C006,Lump sum,44.0,Medium,2024,12,0.37,15,6909048.38,7222359.09
+P0373,Residential refurbishment,East,C021,Lump sum,76.0,Medium,2022,18,0.3,22,5141875.66,5671289.22
+P0374,Commercial,South,C028,Lump sum,42.0,Low,2021,32,0.17,36,4534273.46,4981342.74
+P0375,Commercial,South,C019,Design & build,47.0,Medium,2020,36,0.21,39,4732282.88,5181623.41
+P0376,Infrastructure,South,C006,Lump sum,79.0,Low,2024,22,0.37,28,8714460.33,9710279.77
+P0377,Residential new build,South,C009,Lump sum,46.0,Medium,2023,22,0.24,25,3354780.81,3724534.93
+P0378,Residential refurbishment,East,C039,Design & build,60.0,Low,2019,9,0.3,11,5389848.7,5937866.89
+P0379,Residential refurbishment,West,C044,Re-measured BoQ,75.0,Medium,2015,36,0.26,44,33619208.93,42054381.85
+P0380,Residential refurbishment,East,C034,Re-measured BoQ,79.0,Low,2015,8,0.35,11,5341003.31,5948753.8
+P0381,Residential new build,West,C005,Re-measured BoQ,,Low,2017,8,0.41,10,7618490.13,8691752.55
+P0382,Residential new build,East,C037,Design & build,45.0,Low,2015,21,0.23,24,8279044.45,8880857.4
+P0383,Residential new build,North,C032,Re-measured BoQ,88.0,Low,2017,8,0.26,9,13419433.05,14151836.34
+P0384,Residential new build,West,C024,Re-measured BoQ,97.0,Low,2016,12,0.31,14,3621041.52,3722999.45
+P0385,Residential refurbishment,North,C007,Re-measured BoQ,94.0,Medium,2024,26,0.27,26,4186453.86,4341311.96
+P0386,Commercial,West,C045,Re-measured BoQ,85.0,Medium,2015,28,0.26,29,11245391.51,11657421.49
+P0387,Commercial,North,C020,Lump sum,64.0,Low,2021,16,0.29,21,4008191.47,4358394.98
+P0388,Residential refurbishment,North,C002,Re-measured BoQ,93.0,High,2018,31,0.38,38,12737239.48,14016531.84
+P0389,Residential refurbishment,South,C010,Lump sum,69.0,Medium,2016,25,0.29,27,7805984.7,8380037.42
+P0390,Residential new build,West,C019,Re-measured BoQ,48.0,High,2022,14,0.21,18,26130976.86,29826208.17
+P0391,Residential refurbishment,East,C003,Lump sum,91.0,Medium,2024,28,0.2,32,9275119.19,9557258.8
+P0392,Residential new build,North,C015,Lump sum,59.0,Medium,2022,25,0.26,32,3939508.53,4402841.05
+P0393,Residential new build,North,C022,Lump sum,97.0,Medium,2024,31,0.29,37,3565937.56,3647134.44
+P0394,Residential refurbishment,West,C043,Design & build,62.0,Medium,2020,12,0.3,15,7275183.73,8357876.09
+P0395,Residential refurbishment,South,C004,Lump sum,93.0,High,2021,14,0.21,16,12936666.34,14855779.33
+P0396,Residential new build,North,C026,Re-measured BoQ,72.0,Low,2016,16,0.21,19,18095693.2,19012880.51
+P0397,Residential refurbishment,East,C042,Design & build,68.0,Low,2023,17,0.18,20,24972739.49,28541599.44
+P0398,Residential refurbishment,East,C037,Lump sum,58.0,Low,2022,33,0.23,39,907597.65,1063561.0
+P0399,Commercial,North,C042,Re-measured BoQ,90.0,High,2017,29,0.18,31,16271422.05,17940558.7
+P0400,Commercial,West,C008,Lump sum,43.0,Low,2018,23,0.2,25,7784389.6,8065220.99
+P0401,Commercial,South,C037,Lump sum,68.0,Medium,2021,23,0.23,26,33243644.72,37469365.45
+P0402,Residential new build,North,C045,Re-measured BoQ,62.0,Medium,2015,33,0.26,35,6258079.78,6469232.02
+P0403,Infrastructure,South,C015,Design & build,73.0,High,2023,20,0.26,24,3578628.66,4043830.03
+P0404,Residential refurbishment,East,C023,Lump sum,55.0,Low,2017,14,0.13,15,10095368.99,10385411.65
+P0405,Residential refurbishment,North,C024,Re-measured BoQ,80.0,Medium,2015,11,0.31,11,3541875.5,3788231.72
+P0406,Commercial,East,C023,Lump sum,63.0,High,2018,17,0.13,19,4191386.91,4488594.06
+P0407,Residential refurbishment,North,C014,Re-measured BoQ,51.0,Low,2023,26,0.12,32,7351162.35,8837916.54
+P0408,Residential refurbishment,North,C044,Re-measured BoQ,52.0,Medium,2017,21,0.26,25,5075393.15,5488067.55
+P0409,Commercial,West,C044,Re-measured BoQ,82.0,Low,2020,20,0.26,25,2335361.46,2453947.1
+P0410,Infrastructure,South,C018,Re-measured BoQ,55.0,Medium,2023,21,0.33,25,6234056.66,7867336.73
+P0411,Infrastructure,North,C037,Lump sum,58.0,Medium,2015,36,0.23,44,2302835.41,2508803.18
+P0412,Residential refurbishment,West,C018,Re-measured BoQ,78.0,Low,2022,36,0.33,43,17846669.05,20838645.6
+P0413,Residential refurbishment,South,C036,Re-measured BoQ,60.0,Low,2017,12,0.18,15,1217823.56,1281069.1
+P0414,Infrastructure,West,C027,Re-measured BoQ,63.0,Low,2021,11,0.15,13,6242775.16,6993391.55
+P0415,Residential new build,South,C022,Lump sum,54.0,Low,2016,15,0.29,18,29275315.59,31886380.77
+P0416,Infrastructure,East,C006,Re-measured BoQ,61.0,Medium,2016,32,0.37,38,1593160.89,1850973.84
+P0417,Residential refurbishment,South,C030,Re-measured BoQ,82.0,Low,2022,21,0.22,25,3446071.14,3758661.41
+P0418,Residential new build,South,C015,Lump sum,72.0,Low,2023,33,0.26,35,9835037.41,10544130.56
+P0419,Residential new build,South,C010,Lump sum,100.0,Medium,2024,26,0.29,27,8381080.51,8729659.67
+P0420,Infrastructure,North,C009,Re-measured BoQ,87.0,Medium,2021,24,0.24,31,1995461.52,2354667.54
+P0421,Residential new build,East,C045,Re-measured BoQ,41.0,Medium,2019,16,0.26,20,52772376.2,59086063.74
+P0422,Residential new build,North,C005,Lump sum,63.0,High,2016,17,0.41,22,9979579.76,11644010.93
+P0423,Residential new build,East,C036,Design & build,57.0,Low,2017,12,0.18,14,2533761.42,2755811.61
+P0424,Residential new build,North,C039,Re-measured BoQ,75.0,Medium,2021,23,0.3,27,2884089.39,3310810.63
+P0425,Residential new build,North,C002,Re-measured BoQ,56.0,Low,2018,16,0.38,18,3399179.02,3646767.11
+P0426,Commercial,West,C027,Re-measured BoQ,98.0,Medium,2019,16,0.15,18,2676606.27,2814240.5
+P0427,Residential new build,North,C026,Re-measured BoQ,,High,2016,9,0.21,11,12503497.77,13690054.79
+P0428,Infrastructure,West,C017,Re-measured BoQ,71.0,Medium,2019,31,0.2,36,6291389.64,7360916.45
+P0429,Infrastructure,North,C031,Design & build,47.0,Medium,2017,35,0.11,37,3162299.27,3487225.69
+P0430,Residential refurbishment,West,C019,Re-measured BoQ,95.0,Medium,2016,22,0.21,25,20840768.24,22398108.22
+P0431,Residential new build,East,C020,Re-measured BoQ,95.0,Low,2016,23,0.29,26,4677898.66,4681754.42
+P0432,Commercial,South,C020,Re-measured BoQ,88.0,Medium,2020,34,0.29,39,7542530.92,8545546.65
+P0433,Residential new build,East,C037,Re-measured BoQ,61.0,Medium,2018,22,0.23,29,9843945.11,11041444.37
+P0434,Residential refurbishment,East,C029,Lump sum,,High,2015,26,0.24,34,5578639.7,6364718.23
+P0435,Infrastructure,East,C018,Re-measured BoQ,83.0,Low,2020,20,0.33,26,5301361.45,6230326.61
+P0436,Infrastructure,South,C042,Re-measured BoQ,66.0,Low,2016,22,0.18,27,1297659.06,1482077.05
+P0437,Infrastructure,East,C037,Design & build,100.0,Medium,2015,23,0.23,28,6968479.57,7260085.26
+P0438,Residential new build,South,C042,Re-measured BoQ,82.0,Low,2016,28,0.18,29,2863263.71,2981840.63
+P0439,Commercial,West,C033,Re-measured BoQ,72.0,Low,2019,25,0.3,25,3909471.79,4359506.03
+P0440,Commercial,East,C018,Design & build,100.0,Low,2024,22,0.33,24,9092316.88,9431195.96
+P0441,Residential refurbishment,East,C035,Re-measured BoQ,88.0,Medium,2017,10,0.19,12,7529447.4,7765860.01
+P0442,Commercial,North,C015,Lump sum,67.0,Low,2017,34,0.26,36,5478035.15,5599921.68
+P0443,Residential new build,East,C013,Lump sum,41.0,Low,2017,33,0.32,38,11472214.76,11783167.6
+P0444,Residential new build,North,C021,Lump sum,,Low,2018,13,0.3,16,7685030.04,7879666.79
+P0445,Residential refurbishment,North,C044,Lump sum,67.0,High,2022,16,0.26,20,2445278.15,2789012.15
+P0446,Residential new build,West,C026,Re-measured BoQ,74.0,Medium,2018,36,0.21,44,6971783.49,7728714.86
+P0447,Residential new build,North,C018,Re-measured BoQ,41.0,Low,2021,17,0.33,20,1765250.66,2124048.79
+P0448,Infrastructure,East,C021,Re-measured BoQ,47.0,Low,2023,31,0.3,37,2191345.78,2752562.34
+P0449,Infrastructure,West,C014,Lump sum,82.0,Medium,2024,30,0.12,35,3767110.35,3815581.13
+P0450,Residential refurbishment,West,C030,Re-measured BoQ,85.0,Low,2020,32,0.22,36,17748280.36,18458965.7
+P0451,Infrastructure,North,C016,Lump sum,41.0,Medium,2022,8,0.23,10,21688215.25,23994029.08
+P0452,Infrastructure,North,C025,Design & build,70.0,Low,2024,22,0.27,25,2342048.96,2648026.04
+P0453,Residential new build,East,C017,Lump sum,44.0,High,2022,24,0.2,28,7842531.36,8967589.09
+P0454,Residential refurbishment,South,C015,Re-measured BoQ,,Low,2017,32,0.26,35,11287540.47,11926161.23
+P0455,Residential refurbishment,West,C044,Lump sum,90.0,Medium,2016,14,0.26,16,2435628.62,2641183.56
+P0456,Residential new build,North,C016,Re-measured BoQ,93.0,Low,2016,16,0.23,17,29742519.33,30850982.28
+P0457,Infrastructure,North,C004,Re-measured BoQ,76.0,High,2023,13,0.21,16,8859626.88,10172721.66
+P0458,Residential refurbishment,East,C018,Re-measured BoQ,78.0,High,2020,30,0.33,37,4137581.59,4815729.75
+P0459,Residential refurbishment,West,C024,Lump sum,96.0,Medium,2017,36,0.31,43,40052987.87,45874023.66
+P0460,Residential new build,  east ,C005,Design & build,77.0,Low,2018,12,0.41,14,3096668.72,3344582.81
+P0461,Residential new build,East,C014,Re-measured BoQ,67.0,Low,2017,14,0.12,16,8907393.76,9389867.68
+P0462,Infrastructure,North,C008,Re-measured BoQ,86.0,Medium,2023,16,0.2,18,4494488.94,5139843.96
+P0463,Residential new build,North,C023,Design & build,76.0,Medium,2021,33,0.13,36,4474641.0,4889562.08
+P0464,Residential new build,West,C033,Design & build,91.0,Low,2023,20,0.3,23,9267287.89,9982877.89
+P0465,Residential new build,North,C044,Lump sum,72.0,Low,2018,16,0.26,18,1344737.51,1393202.37
+P0466,Residential refurbishment,East,C018,Lump sum,93.0,Low,2019,17,0.33,19,5425606.64,5552441.94
+P0467,Residential refurbishment,West,C039,Lump sum,42.0,Medium,2016,25,0.3,33,7274755.52,7813056.33
+P0468,Residential refurbishment,South,C010,Lump sum,42.0,Medium,2024,19,0.29,24,21631601.01,24737143.11
+P0469,Residential new build,North,C036,Re-measured BoQ,46.0,Medium,2020,12,0.18,15,3952434.38,4252730.62
+P0470,Residential new build,East,C026,Design & build,73.0,Medium,2020,31,0.21,34,3530513.04,3735666.71
+P0471,Infrastructure,West,C035,Design & build,83.0,Low,2019,20,0.19,20,3739369.88,3860636.73
+P0472,Commercial,East,C034,Re-measured BoQ,53.0,Low,2017,15,0.35,18,6088227.74,6674725.58
+P0473,Commercial,South,C024,Re-measured BoQ,49.0,Low,2024,29,0.31,36,1412025.85,1658963.9
+P0474,Commercial,South,C012,Design & build,92.0,Medium,2019,29,0.17,33,10575994.74,11207017.24
+P0475,Infrastructure,South,C024,Design & build,85.0,Low,2021,12,0.31,15,47231523.58,53432330.94
+P0476,Residential new build,North,C038,Lump sum,79.0,Low,2015,10,0.3,11,7223107.99,7469471.95
+P0477,Residential refurbishment,West,C044,Re-measured BoQ,69.0,Low,2017,9,0.26,11,2991485.46,3295155.14
+P0478,Residential refurbishment,West,C042,Design & build,65.0,Low,2023,30,0.18,37,3698637.36,4297849.96
+P0479,Residential new build,North,C009,Lump sum,41.0,Medium,2015,26,0.24,32,2156333.63,2356927.42
+P0480,Infrastructure,West,C027,Re-measured BoQ,51.0,Low,2016,30,0.15,36,3940501.45,4396604.05
+P0481,Residential refurbishment,West,C005,Design & build,94.0,Low,2023,26,0.41,33,3999248.2,4440445.2
+P0482,Infrastructure,South,C031,Design & build,60.0,Medium,2018,19,0.11,20,10506464.52,10787105.1
+P0483,Infrastructure,East,C045,Design & build,82.0,Low,2017,25,0.26,27,11968805.24,12324860.39
+P0484,Residential refurbishment,East,C003,Re-measured BoQ,82.0,Low,2020,28,0.2,35,3040402.49,3258290.63
+P0485,Infrastructure,West,C030,Lump sum,58.0,Low,2016,19,0.22,22,15042801.93,15548087.88
+P0486,Residential refurbishment,North,C043,Lump sum,52.0,Medium,2015,34,0.3,41,1994450.1,2391620.97
+P0487,Infrastructure,West,C039,Re-measured BoQ,82.0,Low,2015,34,0.3,40,4483204.98,4848973.03
+P0488,Residential new build,West,C018,Re-measured BoQ,45.0,Medium,2015,31,0.33,36,2180340.26,2429541.45
+P0489,Residential refurbishment,South,C005,Re-measured BoQ,70.0,High,2016,36,0.41,41,2897869.77,3483852.01
+P0490,Residential refurbishment,East,C042,Re-measured BoQ,94.0,Medium,2021,19,0.18,21,8586301.0,9675560.75
+P0491,Residential new build,  east ,C042,Re-measured BoQ,83.0,Low,2017,11,0.18,12,2977242.63,3094503.51
+P0492,Residential refurbishment,North,C027,Re-measured BoQ,86.0,Medium,2015,22,0.15,26,5310756.92,5986701.4
+P0493,Infrastructure,West,C045,Lump sum,45.0,Low,2015,29,0.26,34,19520855.34,20989340.93
+P0494,Commercial,East,C001,Lump sum,52.0,Low,2019,30,0.24,36,6549841.79,6737821.32
+P0495,Residential new build,  east ,C028,Lump sum,56.0,Medium,2023,19,0.17,20,6280610.89,6588154.12
+P0496,Residential new build,West,C002,Lump sum,57.0,Low,2018,16,0.38,18,46075591.72,48033866.06
+P0497,Residential new build,South,C043,Design & build,51.0,Low,2015,20,0.3,24,5020256.62,5507231.3
+P0498,Residential new build,South,C031,Re-measured BoQ,99.0,Low,2017,31,0.11,31,17082799.43,16690550.71
+P0499,Infrastructure,North,C042,Lump sum,50.0,Low,2019,9,0.18,11,7642495.92,7958498.65
+P0500,Residential refurbishment,West,C026,Re-measured BoQ,83.0,Low,2016,17,0.21,20,2721584.29,3072975.02
+P0501,Residential new build,South,C004,Re-measured BoQ,75.0,Medium,2024,14,0.21,18,5761975.81,5882507.81
+P0502,Residential refurbishment,West,C002,Lump sum,77.0,High,2022,31,0.38,35,7618078.47,8968570.44
+P0503,Residential new build,West,C016,Lump sum,53.0,Low,2018,21,0.23,25,16631098.97,18037358.32
+P0504,Residential new build,North,C034,Lump sum,58.0,Medium,2024,10,0.35,12,4982599.05,5174244.17
+P0505,Commercial,North,C007,Re-measured BoQ,76.0,Low,2018,15,0.27,16,14001364.12,14754193.89
+P0506,Commercial,West,C039,Lump sum,58.0,Low,2016,9,0.3,11,8768467.87,9084262.61
+P0507,Infrastructure,South,C011,Lump sum,82.0,Low,2024,21,0.15,24,3780172.98,3865400.29
+P0508,Commercial,East,C023,Lump sum,42.0,Low,2024,36,0.13,42,5545214.01,6585141.06
+P0509,Residential refurbishment,East,C010,Re-measured BoQ,44.0,Low,2018,24,0.29,32,6148943.42,7963978.62
+P0510,Infrastructure,South,C021,Lump sum,84.0,Low,2020,33,0.3,37,13681134.34,14656939.23
+P0511,Infrastructure,West,C021,Design & build,77.0,Low,2016,29,0.3,32,3154391.22,3309980.49
+P0512,Commercial,North,C001,Lump sum,42.0,Medium,2021,33,0.24,39,2911422.87,3195641.82
+P0513,Infrastructure,South,C026,Re-measured BoQ,94.0,Low,2021,17,0.21,20,4585344.79,5126426.56
+P0514,Infrastructure,West,C036,Re-measured BoQ,40.0,Low,2022,35,0.18,41,465951.11,544713.74
+P0515,Infrastructure,East,C043,Re-measured BoQ,98.0,Low,2020,14,0.3,17,5904575.68,6328367.41
+P0516,Residential new build,East,C015,Lump sum,84.0,Medium,2022,20,0.26,21,1856009.51,1995798.93
+P0517,Commercial,West,C040,Design & build,100.0,Low,2020,27,0.14,27,5031138.29,5154207.64
+P0518,Residential refurbishment,North,C040,Design & build,97.0,Medium,2023,16,0.14,17,15515835.16,17160413.47
+P0519,Residential refurbishment,East,C045,Lump sum,59.0,Low,2016,15,0.26,19,3045965.44,3236929.5
+P0520,Commercial,East,C017,Lump sum,86.0,Low,2019,11,0.2,12,6865488.98,7082058.86
+P0521,Infrastructure,West,C039,Design & build,52.0,High,2019,8,0.3,11,4252384.03,4741761.52
+P0522,Infrastructure,North,C026,Re-measured BoQ,68.0,Low,2020,22,0.21,25,20927397.09,24300265.18
+P0523,Residential new build,East,C003,Lump sum,54.0,Low,2016,36,0.2,43,5170904.97,5296946.99
+P0524,Commercial,North,C013,Lump sum,69.0,Low,2018,14,0.32,16,18824851.91,19220834.38
+P0525,Commercial,West,C031,Re-measured BoQ,93.0,High,2024,20,0.11,21,15399421.2,14579692.86
+P0526,Residential new build,South,C008,Re-measured BoQ,66.0,Medium,2016,35,0.2,44,6130933.86,7328966.14
+P0527,Residential new build,East,C020,Re-measured BoQ,45.0,Medium,2021,30,0.29,36,4634838.13,5690526.65
+P0528,Residential new build,East,C035,Design & build,59.0,High,2021,8,0.19,10,13401350.07,15496641.45
+P0529,Infrastructure,North,C007,Re-measured BoQ,87.0,Low,2019,22,0.27,26,10558090.63,11648572.87
+P0530,Residential refurbishment,West,C023,Lump sum,,High,2015,12,0.13,17,19378264.4,20166497.88
+P0531,Infrastructure,South,C010,Re-measured BoQ,74.0,Low,2015,15,0.29,18,7463230.27,8315072.35
+P0532,Residential refurbishment,East,C025,Lump sum,66.0,Medium,2017,15,0.27,20,4544809.66,4722815.09
+P0533,Infrastructure,East,C011,Lump sum,57.0,Low,2016,25,0.15,30,4677602.45,4966240.44
+P0534,Residential refurbishment,South,C044,Lump sum,76.0,Low,2015,13,0.26,15,4187497.08,4294848.5
+P0535,Infrastructure,South,C004,Lump sum,78.0,High,2016,15,0.21,17,2089661.86,2192997.18
+P0536,Residential new build,East,C044,Re-measured BoQ,94.0,Low,2016,14,0.26,17,1942146.32,2000424.2
+P0537,Residential refurbishment,East,C036,Lump sum,77.0,High,2023,18,0.18,20,16067411.84,17563695.84
+P0538,Infrastructure,South,C039,Re-measured BoQ,100.0,Low,2021,27,0.3,33,20464505.48,22595689.22
+P0539,Infrastructure,South,C039,Re-measured BoQ,90.0,Medium,2015,19,0.3,22,5193726.81,5760113.83
+P0540,Infrastructure,South,C009,Re-measured BoQ,44.0,High,2021,17,0.24,20,8614258.75,10629820.35
+P0541,Residential new build,North,C042,Re-measured BoQ,63.0,Low,2016,23,0.18,25,3556438.91,3800961.73
+P0542,Residential refurbishment,East,C027,Design & build,63.0,High,2019,25,0.15,32,7762622.98,9372700.72
+P0543,Residential new build,South,C044,Re-measured BoQ,40.0,Medium,2015,8,0.26,10,911490.61,1020234.19
+P0544,Residential new build,West,C040,Lump sum,51.0,Medium,2015,33,0.14,39,2664704.91,2860521.14
+P0545,Commercial,South,C027,Re-measured BoQ,86.0,Low,2016,34,0.15,37,6757491.72,7240354.56
+P0546,Commercial,East,C017,Re-measured BoQ,61.0,Medium,2019,25,0.2,27,2439642.04,2619876.33
+P0547,Infrastructure,South,C006,Lump sum,49.0,Medium,2019,24,0.37,30,6783460.4,8074258.58
+P0548,Infrastructure,North,C005,Lump sum,57.0,Low,2018,28,0.41,33,4172144.06,4482554.79
+P0549,Commercial,  east ,C018,Lump sum,56.0,Low,2021,20,0.33,25,4396613.87,4994147.52
+P0550,Infrastructure,South,C037,Re-measured BoQ,50.0,Low,2022,18,0.23,23,4581284.29,5402097.62
+P0551,Residential new build,West,C023,Re-measured BoQ,46.0,High,2022,18,0.13,21,11235568.55,12792099.18
+P0552,Residential new build,West,C022,Lump sum,86.0,Low,2020,12,0.29,14,3280500.24,3334605.69
+P0553,Commercial,South,C012,Design & build,90.0,Medium,2020,32,0.17,34,13008049.73,13010081.56
+P0554,Infrastructure,North,C026,Design & build,70.0,High,2019,17,0.21,19,4854837.71,5503299.26
+P0555,Residential new build,West,C029,Lump sum,77.0,Low,2017,16,0.24,17,5927142.34,6052549.42
+P0556,Residential refurbishment,East,C045,Design & build,96.0,Low,2019,35,0.26,39,24498309.61,25916833.84
+P0557,Commercial,East,C033,Lump sum,91.0,Medium,2015,22,0.3,27,6285536.77,6469308.95
+P0558,Residential new build,West,C028,Design & build,41.0,Low,2024,26,0.17,31,13365086.29,14493400.1
+P0559,Residential refurbishment,South,C041,Design & build,98.0,Medium,2018,15,0.21,15,5845767.17,6039019.29
+P0560,Infrastructure,South,C020,Lump sum,44.0,Medium,2022,16,0.29,19,8564483.97,9432496.47
+P0561,Commercial,East,C043,Re-measured BoQ,41.0,Medium,2024,29,0.3,38,4367807.64,5133712.38
+P0562,Residential new build,West,C017,Design & build,64.0,Low,2019,21,0.2,23,7317637.24,7725736.38
+P0563,Infrastructure,East,C006,Design & build,85.0,Medium,2023,12,0.37,16,2340449.38,2747080.78
+P0564,Residential new build,South,C019,Design & build,44.0,Medium,2019,32,0.21,33,7570353.29,7643606.63
+P0565,Infrastructure,West,C006,Re-measured BoQ,57.0,Low,2016,19,0.37,24,1343499.87,1505584.03
+P0566,Residential new build,South,C006,Lump sum,56.0,Medium,2015,27,0.37,35,3281173.52,3744331.68
+P0567,Residential refurbishment,North,C040,Design & build,64.0,High,2016,17,0.14,20,2860716.24,3190793.48
+P0568,Residential refurbishment,East,C036,Re-measured BoQ,100.0,Medium,2024,24,0.18,25,9070902.78,9227844.77
+P0569,Residential new build,East,C010,Re-measured BoQ,60.0,Low,2019,30,0.29,35,10317305.38,11687363.11
+P0570,Infrastructure,West,C038,Re-measured BoQ,52.0,Low,2018,33,0.3,43,4750403.89,6030026.07
+P0571,Residential new build,South,C004,Re-measured BoQ,47.0,Low,2019,14,0.21,16,2771843.29,3109253.99
+P0572,Residential new build,East,C013,Lump sum,52.0,Low,2017,27,0.32,32,8615817.06,9174541.77
+P0573,Residential new build,  east ,C032,Re-measured BoQ,48.0,Low,2023,34,0.26,39,2410912.05,2801935.31
+P0574,Commercial,South,C014,Lump sum,74.0,High,2024,26,0.12,27,5925434.85,6049329.82
+P0575,Infrastructure,East,C033,Re-measured BoQ,65.0,Low,2015,12,0.3,16,2926806.38,3168991.89
+P0576,Infrastructure,East,C040,Design & build,70.0,Medium,2022,13,0.14,16,38252966.27,44747825.41
+P0577,Residential new build,West,C003,Re-measured BoQ,90.0,Low,2018,13,0.2,14,12985398.67,13267213.77
+P0578,Residential refurbishment,South,C002,Re-measured BoQ,75.0,Low,2015,11,0.38,14,6027227.84,6882670.16
+P0579,Residential new build,North,C043,Lump sum,49.0,Low,2024,29,0.3,33,1872936.57,1946903.83
+P0580,Residential refurbishment,South,C024,Design & build,62.0,Low,2015,35,0.31,39,3739069.75,4100747.03
+P0581,Infrastructure,South,C023,Re-measured BoQ,59.0,Medium,2017,22,0.13,26,7917826.99,9062092.49
+P0582,Commercial,South,C021,Lump sum,90.0,High,2015,25,0.3,28,6054364.37,6168310.24
+P0583,Residential refurbishment,  east ,C020,Lump sum,58.0,High,2019,30,0.29,37,2578577.94,2939022.1
+P0584,Residential refurbishment,West,C032,Lump sum,48.0,Low,2020,20,0.26,22,23883497.01,25431254.16
+P0585,Infrastructure,East,C027,Re-measured BoQ,84.0,Medium,2018,21,0.15,26,2818534.12,2971047.06
+P0586,Residential refurbishment,East,C008,Design & build,66.0,Low,2015,25,0.2,29,15851771.39,17607712.7
+P0587,Residential new build,North,C029,Re-measured BoQ,45.0,High,2016,16,0.24,20,17849066.95,20301246.84
+P0588,Residential refurbishment,South,C031,Lump sum,82.0,Medium,2024,9,0.11,10,15942736.47,16254911.99
+P0589,Residential new build,East,C006,Design & build,52.0,Low,2023,24,0.37,29,2407805.87,2801266.65
+P0590,Residential new build,East,C017,Lump sum,92.0,Low,2024,31,0.2,32,1571257.74,1578811.89
+P0591,Residential new build,South,C036,Design & build,90.0,Low,2020,10,0.18,12,1378329.8,1391413.52
+P0592,Residential refurbishment,East,C028,Lump sum,62.0,Low,2020,14,0.17,16,2823784.48,2918770.64
+P0593,Commercial,East,C007,Re-measured BoQ,73.0,High,2022,15,0.27,19,3700486.61,4205107.34
+P0594,Residential new build,East,C002,Design & build,74.0,Medium,2021,31,0.38,35,8208819.17,9437601.95
+P0595,Residential refurbishment,East,C027,Lump sum,79.0,High,2019,22,0.15,26,7748928.95,8343428.67
+P0596,Infrastructure,North,C021,Re-measured BoQ,44.0,Low,2017,23,0.3,28,2700192.88,3079943.57
+P0597,Infrastructure,West,C044,Design & build,59.0,Medium,2019,26,0.26,31,8129640.54,8799282.02
+P0598,Residential refurbishment,North,C024,Lump sum,50.0,Low,2015,16,0.31,17,17170141.03,18397544.73
+P0599,Residential new build,East,C042,Lump sum,82.0,Medium,2016,28,0.18,29,6888866.24,7274183.96
+P0600,Infrastructure,South,C010,Re-measured BoQ,44.0,Low,2022,8,0.29,10,4196377.03,5136198.28
+P0601,Residential new build,North,C021,Lump sum,71.0,Low,2023,11,0.3,12,2561881.85,2715945.78
+P0602,Residential new build,South,C007,Lump sum,84.0,Medium,2016,31,0.27,35,14555696.31,15432570.27
+P0603,Infrastructure,South,C026,Re-measured BoQ,97.0,Low,2015,27,0.21,28,2953353.46,3050604.07
+P0604,Residential refurbishment,South,C009,Re-measured BoQ,57.0,Low,2015,13,0.24,16,6739860.76,7595834.09
+P0605,Commercial,East,C023,Lump sum,40.0,Medium,2022,20,0.13,22,76498982.13,83477767.66
+P0606,Residential refurbishment,North,C016,Lump sum,84.0,Low,2018,9,0.23,10,4563906.87,4714755.41
+P0607,Commercial,West,C009,Design & build,40.0,High,2018,27,0.24,35,6105934.4,7104693.13
+P0608,Residential new build,East,C005,Re-measured BoQ,44.0,Medium,2015,29,0.41,39,1724077.37,2221989.64
+P0609,Residential new build,West,C024,Design & build,100.0,Medium,2024,16,0.31,18,2699819.15,2752711.12
+P0610,Residential new build,North,C043,Re-measured BoQ,92.0,Medium,2019,18,0.3,20,12813264.37,14028601.15
+P0611,Residential new build,North,C009,Design & build,83.0,Medium,2022,14,0.24,15,13968224.46,15623520.52
+P0612,Infrastructure,West,C019,Re-measured BoQ,90.0,Medium,2022,19,0.21,20,29961782.89,32862770.59
+P0613,Residential new build,West,C011,Lump sum,44.0,High,2016,15,0.15,19,6663778.25,7034435.08
+P0614,Residential refurbishment,West,C037,Design & build,45.0,Medium,2023,15,0.23,20,5222850.07,6340233.47
+P0615,Infrastructure,West,C019,Re-measured BoQ,58.0,Low,2020,20,0.21,25,4321263.86,4669122.76
+P0616,Infrastructure,North,C044,Lump sum,41.0,Low,2021,32,0.26,38,14708655.75,16522814.5
+P0617,Residential refurbishment,West,C012,Lump sum,94.0,Medium,2017,30,0.17,30,4334605.64,4432915.69
+P0618,Residential refurbishment,South,C004,Re-measured BoQ,43.0,Low,2023,16,0.21,20,7813291.68,9242768.68
+P0619,Infrastructure,North,C027,Lump sum,73.0,Low,2024,35,0.15,37,9231985.17,9517514.68
+P0620,Commercial,North,C030,Lump sum,92.0,Low,2019,14,0.22,14,6822940.78,6785567.31
+P0621,Infrastructure,West,C045,Lump sum,84.0,Medium,2015,34,0.26,43,5658432.76,6082863.98
+P0622,Infrastructure,East,C040,Re-measured BoQ,54.0,Low,2023,16,0.14,19,8480220.21,10149845.99
+P0623,Infrastructure,West,C040,Re-measured BoQ,68.0,Medium,2023,23,0.14,28,11280816.48,14409814.09
+P0624,Residential new build,North,C029,Re-measured BoQ,73.0,Medium,2020,13,0.24,16,9990095.16,10558892.78
+P0625,Residential refurbishment,East,C017,Lump sum,86.0,Medium,2020,30,0.2,32,8427829.13,8731699.22
+P0626,Residential new build,East,C020,Lump sum,66.0,Low,2017,17,0.29,19,16054233.81,17624353.26
+P0627,Commercial,East,C007,Re-measured BoQ,,Medium,2015,33,0.27,39,14206431.14,17471813.58
+P0628,Infrastructure,South,C020,Lump sum,88.0,Medium,2024,10,0.29,11,18197357.68,18748430.4
+P0629,Residential refurbishment,West,C017,Re-measured BoQ,94.0,Low,2019,22,0.2,23,5050057.1,5223539.86
+P0630,Residential refurbishment,West,C002,Lump sum,69.0,Medium,2017,12,0.38,15,2103950.61,2282082.1
+P0631,Residential new build,South,C010,Lump sum,41.0,Low,2021,33,0.29,42,3456349.24,4036285.78
+P0632,Infrastructure,North,C025,Lump sum,70.0,High,2015,20,0.27,25,17475803.65,18902554.03
+P0633,Residential new build,West,C017,Re-measured BoQ,94.0,Low,2015,27,0.2,28,7161517.24,7693980.28
+P0634,Residential new build,South,C045,Lump sum,100.0,Medium,2017,33,0.26,37,17582573.05,18741774.18
+P0635,Residential new build,South,C022,Design & build,64.0,Medium,2019,23,0.29,27,2273219.64,2530368.87
+P0636,Residential new build,South,C044,Lump sum,49.0,Low,2018,9,0.26,11,2937156.34,3058415.88
+P0637,Residential refurbishment,West,C030,Re-measured BoQ,74.0,Medium,2016,14,0.22,19,1592109.83,1880344.75
+P0638,Residential refurbishment,West,C002,Re-measured BoQ,90.0,Low,2018,14,0.38,17,15637800.34,16829801.77
+P0639,Residential new build,South,C010,Lump sum,97.0,Medium,2018,34,0.29,37,7318313.14,7824747.91
+P0640,Residential new build,South,C032,Re-measured BoQ,43.0,Medium,2020,34,0.26,42,3524124.93,4435563.55
+P0641,Residential new build,South,C025,Lump sum,57.0,Low,2020,21,0.27,25,2816682.5,3113470.38
+P0642,Residential refurbishment,East,C014,Re-measured BoQ,69.0,Low,2023,33,0.12,35,7232985.53,8522049.76
+P0643,Residential new build,East,C024,Lump sum,45.0,Medium,2023,15,0.31,17,15641909.74,16948470.59
+P0644,Commercial,South,C041,Re-measured BoQ,,Low,2017,27,0.21,29,10979339.29,11436700.82
+P0645,Residential new build,North,C018,Design & build,46.0,High,2024,19,0.33,25,10349803.37,11629491.2
+P0646,Residential new build,East,C003,Lump sum,80.0,Medium,2020,14,0.2,17,8213764.85,8422417.98
+P0647,Residential refurbishment,South,C014,Re-measured BoQ,96.0,Medium,2016,15,0.12,17,7472479.68,7799218.0
+P0648,Residential refurbishment,West,C043,Re-measured BoQ,81.0,Low,2018,20,0.3,23,6953372.82,7920485.28
+P0649,Residential new build,South,C035,Lump sum,86.0,Medium,2022,17,0.19,19,8045961.19,8879143.93
+P0650,Residential new build,East,C038,Re-measured BoQ,56.0,High,2023,14,0.3,19,5404441.67,6683047.6
