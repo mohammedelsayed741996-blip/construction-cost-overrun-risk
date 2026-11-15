@@ -4,60 +4,60 @@
     "threshold": 0.53,
     "cv_auc": {
       "LogisticRegression": 0.9280331075347685,
-      "RandomForest": 0.929963325710834,
-      "HistGradientBoosting": 0.9241875566294173
+      "RandomForest": 0.9302280277861673,
+      "HistGradientBoosting": 0.9241798622197294
     },
-    "test_auc": 0.9626454378444581,
-    "test_recall": 0.8873239436619719,
-    "test_precision": 0.9130434782608695,
-    "test_f1": 0.9,
+    "test_auc": 0.9635639926515616,
+    "test_recall": 0.8732394366197183,
+    "test_precision": 0.9253731343283582,
+    "test_f1": 0.8985507246376812,
     "evm_auc": 0.9424372320881813,
     "evm_recall": 0.6619718309859155,
     "evm_precision": 0.9591836734693877,
-    "share_overrun_eur_flagged_ml": 0.671509333654491,
+    "share_overrun_eur_flagged_ml": 0.6626948505866325,
     "share_overrun_eur_flagged_evm": 0.538179912424834,
-    "share_projects_flagged_ml": 0.4233128834355828,
+    "share_projects_flagged_ml": 0.4110429447852761,
     "n_train": 487,
     "n_test": 163
   },
   "regression": {
     "best_model": "HistGradientBoosting",
-    "test_mae_pp": 2.1407584148193117,
+    "test_mae_pp": 2.1731799469591815,
     "all_mae_pp": {
       "Ridge": 2.447581166984331,
-      "HistGradientBoosting": 2.1407584148193117
+      "HistGradientBoosting": 2.1731799469591815
     },
     "evm_mae_pp": 3.2875919196480705,
     "evm_mean_bias_pp": -2.2309121974367936
   },
   "checkpoints": {
     "20%": {
-      "ml_auc": 0.924672949033079,
+      "ml_auc": 0.9252026539878019,
       "evm_auc": 0.9119738667900094
     },
     "30%": {
-      "ml_auc": 0.9407975232416472,
+      "ml_auc": 0.9404120143936294,
       "evm_auc": 0.9204825778600063
     },
     "40%": {
-      "ml_auc": 0.9334874464020102,
+      "ml_auc": 0.932764691254237,
       "evm_auc": 0.9203958526056121
     },
     "50%": {
-      "ml_auc": 0.9476959127734184,
+      "ml_auc": 0.9471658134599735,
       "evm_auc": 0.9364689330866481
     },
     "60%": {
-      "ml_auc": 0.9488110780468387,
+      "ml_auc": 0.9495807154873486,
       "evm_auc": 0.9462496145544249
     }
   },
   "top_features": {
-    "cpi": 0.1452,
-    "spi": 0.0179,
-    "claims_value_pct": 0.0143,
-    "cost_trend_3m": 0.0141,
+    "cpi": 0.1471,
+    "spi": 0.0174,
+    "claims_value_pct": 0.0145,
+    "cost_trend_3m": 0.014,
     "procurement_route": 0.009,
-    "award_year": 0.0065
+    "award_year": 0.0064
   }
 }
