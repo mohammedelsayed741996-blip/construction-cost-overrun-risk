@@ -1,10 +1,56 @@
 # Construction Cost Overrun Early-Warning System
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange) ![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20SQLite-lightgrey) ![Power BI](https://img.shields.io/badge/Power%20BI-DAX-yellow)
+[![tests](https://github.com/mohammedelsayed741996-blip/construction-cost-overrun-risk/actions/workflows/tests.yml/badge.svg)](https://github.com/mohammedelsayed741996-blip/construction-cost-overrun-risk/actions/workflows/tests.yml) ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 > Flags projects that will overrun their contract value by more than 10 % when only **30 % of the planned schedule has elapsed**, using Bills of Quantities, contractor claims and Earned Value data, and benchmarks the model against the standard EVM forecast (EAC = BAC / CPI).
 
 **Data note:** all data is **synthetic** (`src/generate_data.py`), modelled on quantity-surveying practice; real project cost data is confidential. All figures below are from a reproducible run (seed 42).
+
+---
+
+## Results at a glance
+
+Scored when only **30 % of the planned schedule** has elapsed, on a hold-out set of 163 projects:
+
+| | ML early-warning model | Standard EVM rule (EAC = BAC / CPI) |
+|---|---|---|
+| **Recall** – share of >10 % overruns caught | **87 %** | 66 % |
+| **Precision** – share of alerts that are real overruns | **93 %** | 96 % |
+| **ROC-AUC** | **0.96** | 0.94 |
+| **Forecast error** of final overrun (MAE) | **2.17 pp** | 3.29 pp |
+
+- **21 pp more overrunning projects caught** than the EVM rule, at the cost of 3 pp of precision.
+- **34 % lower forecast error**: EVM under-forecasts the final overrun by 2.2 pp on average, because claims settle late.
+- **650-project cost-control data mart** (€5.54bn contract value; BoQ, claims and monthly EVM tables) in SQL, with Power BI DAX measures.
+- Every number comes from [`reports/model_metrics.json`](reports/model_metrics.json); a test fails if this table and that file disagree.
+
+## Architecture
+
+```mermaid
+flowchart LR
+    subgraph SRC["Synthetic data"]
+        G["generate_data.py<br/>projects · BoQ · claims · monthly EVM"]
+    end
+    subgraph PREP["Data preparation"]
+        C["clean_validate.py<br/>7 DQ rules · BoQ = BAC reconciliation"]
+        F["features.py<br/>snapshot at 30 % of planned duration<br/>(no data after the checkpoint)"]
+    end
+    subgraph ML["Modelling"]
+        T["train_model.py<br/>LogReg · Random Forest · HistGB<br/>stratified 5-fold CV"]
+        B["EVM benchmark<br/>EAC = BAC / CPI"]
+    end
+    subgraph OUT["Outputs"]
+        R["project_risk_scores.csv<br/>risk register"]
+        M["model_metrics.json<br/>+ figures"]
+        DB[("construction.db<br/>star schema · KPI SQL")]
+        PBI["Power BI<br/>DAX measures"]
+    end
+    G --> C --> F --> T --> R & M
+    F --> B --> M
+    C --> L["load_sql.py"] --> DB --> PBI
+    R --> DB
+```
 
 ---
 
@@ -85,18 +131,38 @@ generate_data → clean_validate → features (checkpoint) → eda → train_mod
 ├── sql/01_schema.sql              # data-mart DDL
 ├── sql/02_cost_control_kpis.sql   # KPI queries
 ├── src/                           # pipeline steps
+├── tests/test_pipeline.py         # pytest suite (data quality, leakage, metrics)
+├── .github/workflows/tests.yml    # CI: pytest on every push
 └── run_pipeline.py
 ```
 
 ## 8. Installation
 
 ```bash
-git clone https://github.com/<your-username>/construction-cost-overrun-risk.git
+git clone https://github.com/mohammedelsayed741996-blip/construction-cost-overrun-risk.git
 cd construction-cost-overrun-risk
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-python run_pipeline.py        # ~40 s
+python run_pipeline.py        # ~1 min: regenerates data, models, figures and the SQLite mart
+pytest -q                     # 16 tests, ~10 s
 ```
+
+### Tests & CI
+
+`tests/test_pipeline.py` runs on the committed data and model outputs, so it gives the same result
+on every scikit-learn version. GitHub Actions runs it on every push
+([`.github/workflows/tests.yml`](.github/workflows/tests.yml)).
+
+| Area | What is checked |
+|---|---|
+| Generator | Seed 42 reproduces the committed raw tables exactly |
+| Cleaning | BoQ total = contract value for all 650 projects, standard regions, no negative or over-claimed approvals, no orphans or duplicate project-months, DQ log matches the data |
+| Features | **No leakage**: scrambling every cost, earned value and claim after the 30 % checkpoint leaves all features unchanged; committed features are reproducible |
+| Model outputs | Threshold policy catches ≥ 80 % of overruns; ML beats EVM on recall and MAE; risk register complete; README headline = `model_metrics.json` |
+
+> The figures above were produced with scikit-learn 1.9. Random-forest results can move by about a
+> percentage point between scikit-learn versions, so re-running the pipeline on another version may
+> give slightly different numbers; the data and features are identical on every version.
 
 ## 9. Limitations & next steps
 
@@ -105,4 +171,4 @@ python run_pipeline.py        # ~40 s
 - Next: survival analysis for delay, SHAP explanations per project, monthly re-scoring job feeding the Power BI risk register.
 
 ---
-*Author: Mohamed Abdelrasoul – MSc Data Analytics (BSBI Berlin) · [LinkedIn](https://linkedin.com/in/mohamed-abdelrasoul-b07002173)*
+*Author: Mohamed Abdelrasoul – MSc Data Analytics (BSBI Berlin) · [LinkedIn](https://linkedin.com/in/mohamed-abdelrasoul-b07002173) · Licensed under the [MIT License](LICENSE)*
