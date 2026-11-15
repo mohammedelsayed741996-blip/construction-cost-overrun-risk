@@ -61,7 +61,9 @@ def test_generator_is_deterministic(tmp_path, monkeypatch):
     for name in RAW_TABLES:
         new = pd.read_csv(tmp_path / f"{name}.csv")
         old = pd.read_csv(config.RAW_DIR / f"{name}.csv")
-        pd.testing.assert_frame_equal(new, old, check_exact=False, rtol=1e-9)
+        # Money is rounded to cents; a half-cent can round either way on another
+        # platform's floating point, so allow 1 cent.
+        pd.testing.assert_frame_equal(new, old, check_exact=False, rtol=0, atol=0.011)
 
 
 def test_portfolio_size():
