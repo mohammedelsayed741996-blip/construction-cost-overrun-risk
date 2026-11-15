@@ -29,7 +29,7 @@ Scored when only **30 % of the planned schedule** has elapsed, on a hold-out set
 
 ```mermaid
 flowchart LR
-    subgraph SRC["Synthetic source data (seed 42)"]
+    subgraph SRC["Synthetic data"]
         G["generate_data.py<br/>projects · BoQ · claims · monthly EVM"]
     end
     subgraph PREP["Data preparation"]
@@ -50,7 +50,6 @@ flowchart LR
     F --> B --> M
     C --> L["load_sql.py"] --> DB --> PBI
     R --> DB
-    TEST["pytest + GitHub Actions"] -. checks .-> C & F & M
 ```
 
 ---
